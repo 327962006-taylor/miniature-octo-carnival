@@ -1,0 +1,12 @@
+# 音频文件
+*.mp3
+*.wav
+*.ogg
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
